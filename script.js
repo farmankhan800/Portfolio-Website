@@ -12,9 +12,14 @@ const images = [
     "images/login.png",
     "images/dashboard.png",
     "images/manage_product.png",
-    "images/dark_mode.png"
-];
+    "images/dark_mode.png",
 
+    "images/rental-login.png",
+    "images/rental-dashboard.png",
+    "images/rental-tenants.png",
+    "images/rental-billing.png",
+    "images/rental-payments.png"
+];
 let currentImageIndex = 0;
 
 function openLightbox(index) {
